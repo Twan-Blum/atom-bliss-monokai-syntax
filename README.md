@@ -1,2 +1,5 @@
-# atom-bliss-monokai-syntax
-atom monokai syntax theme
+# Bliss Monokai theme
+
+A monokai syntax theme for [Atom](http://atom.io/).
+
+Based on https://github.com/james2doyle/atom-monokai-dark
