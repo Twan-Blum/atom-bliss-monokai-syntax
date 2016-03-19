@@ -2,7 +2,7 @@
   "private": true,
   "name": "bliss-monokai-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A dark monokai theme",
   "license": "MIT",
   "repository": "https://github.com/Twan-Blum/atom-bliss-monokai-syntax",
